@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fitchronicles.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fbigstock-Programming-Web-Banner-Best-P-258081862.jpg&f=1&nofb=1" height="175px"/></a>
+<a href="#"><img width="80%" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fitchronicles.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fbigstock-Programming-Web-Banner-Best-P-258081862.jpg&f=1&nofb=1" height="120px"/></a>
 
 
 <h3 align="center">Hey there, I'm Yahya Malouhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
@@ -17,7 +17,7 @@
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yahya-mlaouhi-5aa65219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yahya-mlaouhi-5aa65219b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.facebook.com/yahya.mlaouhi"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>&nbsp;
 
 </p>
