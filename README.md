@@ -27,6 +27,7 @@
 ## 👨‍💻 Languages and Tools
 
 <br />
+<div >
 
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/yahyamlaouhi)
@@ -59,7 +60,7 @@
 
 ---
   
-  
+</div>
 <p align="center">
   <img alt="yahya mlaouhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yahyamlaouhi&show_icons=true&hide_border=true" />
 
